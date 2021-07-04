@@ -11,4 +11,4 @@ Sample website with plenty of files for demos
 please full and then commit
 
 ## Locate
-kfdkfdk
+All rights reserved.
